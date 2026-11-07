@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**Thedevawais/Thedevawais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Awais Afzal
 
-Here are some ideas to get you started:
+### 💻 Full Stack Web Developer | Frontend & Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build modern, responsive, and user-friendly websites and web applications.
+
+## 🚀 About Me
+
+- 💻 Web Developer
+- 🌱 Currently learning Node.js and Backend Development
+- 🎯 Interested in building real-world web applications
+- 🤝 Open to freelance projects and collaboration
+- 📍 Based in Pakistan
+
+## 🛠️ My Technical Skills
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+## 💼 What I Do
+
+- Responsive Website Development
+- Business Website Development
+- Frontend Development
+- Backend Development
+- REST API Development
+- Database Integration
+
+## 📂 My Projects
+
+Check out my GitHub repositories to explore my development projects.
+
+## 📞 Connect With Me
+
+- Portfolio: https://portfolioawais-1.netlify.app
+- LinkedIn: https://www.linkedin.com/in/devwithawais/
+- Email: afzalawais562@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
